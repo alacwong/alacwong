@@ -1,5 +1,5 @@
 # ALAC WONG 🚀
-[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat&logoColor=white&link=https://winnllam.github.io/)](https://alacwong.com)
+[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat&logoColor=white&link=https://alacwong.com/)](https://alacwong.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alacwong/)](https://www.linkedin.com/in/alacwong/)
 
 Hi, I'm Alac—a 3rd year undergrad at the University of Toronto studying Computer Science and Statistics. I am interested in artifical intellgience 🧠 with an emphasis on reinforcement and deep learning. My curiousity pushes to always learn new things! I am also passionate about music, content media and basketball 🏀 
