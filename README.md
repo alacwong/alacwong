@@ -1,4 +1,4 @@
-# ALAC WONG 🌙 
+# ALAC WONG 🌟 💫 
 [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat&logo=github&logoColor=white&link=https://alacwong.com/)](https://alacwong.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alacwong/)](https://www.linkedin.com/in/alacwong/)
 
