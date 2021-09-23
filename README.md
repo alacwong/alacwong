@@ -5,9 +5,10 @@
 Hi, I'm Alac—a 3rd year undergrad at the University of Toronto studying Computer Science and Statistics. I am interested in artifical intellgience 🧠 with an emphasis on reinforcement and deep learning. My curiousity pushes to always learn new things! I am also passionate about music 🎵, swimming 🏊‍♂️ and basketball 🏀 
 
 ### Currently
-🏥 Full Stack Software Developer Co-op @ Verto Inc <br />
+🛒 Incoming SDE Intern @ Amazon
 
 ### Experience
+🏥 Full Stack Software Developer Co-op @ Verto Inc <br />
 💻 Full Stack Developer (Part time) @ PickEasy <br />
 🥘 Full Stack Developer Co-op @ PickEasy <br />
 
