@@ -9,8 +9,7 @@ Hi, I'm Alac—a 3rd year undergrad at the University of Toronto studying Comput
 
 ### Experience
 🏥 Full Stack Software Developer Co-op @ Verto Inc <br />
-💻 Full Stack Developer (Part time) @ PickEasy <br />
-🥘 Full Stack Developer Co-op @ PickEasy <br />
+🥘 Full Stack Developer @ PickEasy <br />
 
 <br>
 <p align=center>
