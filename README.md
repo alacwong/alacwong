@@ -5,7 +5,8 @@
 Hi, I'm Alac - a 4th year undergrad at the University of Toronto studying Computer Science and Statistics. I am interested in artifical intellgience 🧠 with an emphasis on reinforcement and deep learning. My curiousity pushes to always learn new things! I am also passionate about music 🎵, swimming 🏊‍♂️ and basketball 🏀 
 
 ### Currently
-🛒 Incoming SDE Intern @ Amazon
+⚡️ Incoming SWE Intern @ Bolt (Winter 2022)
+🛒 Incoming SDE Intern @ Amazon (Summer 2022)
 
 ### Experience
 🏥 Full Stack Software Developer Co-op @ Verto Inc <br />
