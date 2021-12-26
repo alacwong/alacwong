@@ -6,7 +6,8 @@ Hi, I'm Alac - a 4th year undergrad at the University of Toronto studying Comput
 
 ### Currently
 ⚡️ Incoming SWE Intern @ Bolt (Winter 2022) <br />
-🛒 Incoming SDE Intern @ Amazon (Summer 2022)
+🛒 Incoming SDE Intern @ Amazon (Summer 2022) <br />
+🔒 Incoming SWE Intern @ Vanta (Fall 2022)
 
 ### Experience
 🏥 Full Stack Software Developer Co-op @ Verto Inc <br />
